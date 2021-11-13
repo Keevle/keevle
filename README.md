@@ -46,4 +46,6 @@
     <a href="https://jquery.org"><img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery"></a>
     <a href="https://socket.io"><img src="https://img.shields.io/badge/socket.io%20-%23010101.svg?style=for-the-badge&logo=socket-dot-io"></a>
     <a href="https://threejs.org"><img src="https://img.shields.io/badge/three.js-%23292E36?style=for-the-badge&logo=three-dot-js&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+
 </div>
